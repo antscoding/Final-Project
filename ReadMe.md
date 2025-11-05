@@ -2,6 +2,7 @@ Group name: i have no idea
 
 Maxwell Jr Gyampoh - MAG936@pitt.edu
 Anthony Colon - AJC536@pitt.edu
+Ryan Magrini - RAM600@pitt.edu
 
 Datasets:
 1. Water Features - https://data.wprdc.org/dataset/city-water-features
