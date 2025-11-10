@@ -10,4 +10,4 @@ Datasets:
 3. Fire Incidents - https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
 
 Overview: 
-- Three datasets, ranking 'best' neighborhoods in Pittsburghs
+- Three datasets from WPRDC (https://data.wprdc.org/dataset/) ranking 'best' neighborhoods in Pittsburghs
