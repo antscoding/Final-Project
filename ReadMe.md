@@ -12,4 +12,8 @@ Datasets:
 Overview: 
 - Three datasets from WPRDC (https://data.wprdc.org/dataset/) ranking 'best' neighborhoods in Pittsburghs
 
+<<<<<<< HEAD
 Conclusion: Best neighborhood in Pittsburgh is Regent Square.
+=======
+Conclusion: Best neighborhood in Pittsbrugh is Regent Square.
+>>>>>>> 87625407e69e1e32d3f58fb1ce957b6b8d4889dd
