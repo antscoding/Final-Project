@@ -11,18 +11,8 @@ Datasets:
 
 Group : Project Group 9
 Overview: 
-<<<<<<< HEAD
 - Three datasets from WPRDC (https://data.wprdc.org/dataset/) ranking 'best' neighborhoods in Pittsburghs based on quality of life and safety
-=======
-<<<<<<< HEAD
-- Three datasets from WPRDC (https://data.wprdc.org/dataset/) ranking 'best' neighborhoods in Pittsburghs
 
-<<<<<<< HEAD
 Conclusion: Best neighborhood in Pittsburgh is Regent Square.
-=======
-Conclusion: Best neighborhood in Pittsbrugh is Regent Square.
->>>>>>> 87625407e69e1e32d3f58fb1ce957b6b8d4889dd
-=======
-- Three datasets from WPRDC (https://data.wprdc.org/dataset/) ranking 'best' neighborhoods in Pittsburghs based on quality of life and safety
->>>>>>> ddc461963522776bfc2380493ab73eaa10123e6d
->>>>>>> 741cc4ab863f6e8befaf96af5021275899a186f9
+
+
